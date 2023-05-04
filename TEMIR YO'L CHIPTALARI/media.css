@@ -1,27 +1,3 @@
-@media (max-width: 1024px) {
-  .block1-1 {
-    width: 320px;
-  }
-  .block-2-hr-2 {
-    width: 340px;
-  }
-  .block-2-img {
-    width: 300px;
-  }
-}
-@media (max-width: 770px) {
-  .main-section {
-    margin-top: 70px;
-  }
-}
-@media (max-width: 450px) {
-  .block-2-hr-2 {
-    width: 290px;
-  }
-  .block-img {
-    width: 310px;
-  }
-}
 @media (max-width: 535px) {
   .navbar__wrap .menu {
     display: none;
@@ -107,7 +83,8 @@
     overflow: hidden;
   }
 }
-
+/* ------------------- */
+/* ---------------- */
 @media (max-width: 880px) {
   .footer-distributed {
     font: bold 14px sans-serif;
